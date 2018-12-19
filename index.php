@@ -23,7 +23,7 @@
 </section>
         
  <footer>
-         <p align="center"><small>&copy; 2018 (GROUP 8) Phillip Anekwe C., Miracle Jhaey Umoh, Ofokansi Jessica, Ohakaenyi K.Kingsley</small></p>
+         <p align="center"><small>&copy; <?php echo date("Y");?> Phillip Anekwe</small></p>
          
          </footer>
          
